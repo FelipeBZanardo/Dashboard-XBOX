@@ -25,4 +25,10 @@ Os dados analisados respondem algumas perguntas de negócio, que por sua vez, se
 
 - Excel
 
+## 📺 Demonstração
+
+<p align="center">
+  <img src="./_captures/Demonstracao.gif">
+</p>
+
 
